@@ -1,2 +1,29 @@
-# Rent-Fairness-Analyzer-
-A Streamlit-based web app that helps renters analyze if a property is fairly priced based on its location, area, BHK, and amenities. Simply paste a rental listing URL or manually enter the details — the app will predict a fair rent using a trained Random Forest model and show whether you're being overcharged.
+# 🏠 Rent Fairness Analyzer
+
+A Streamlit-based web app that helps renters estimate whether a property's rent is fair based on its location, area, BHK, and amenities.
+
+---
+
+## 🔍 Key Features
+
+- 🧠 **ML Model**: Trained Random Forest to predict fair rent
+- 🌐 **URL Scraping**: Auto-fill fields from MagicBricks or 99acres listings (stubbed)
+- 📌 **Manual Entry**: Option to input rent listing details manually
+- 🗺️ **Interactive Map**: Folium-based rent map with location pins
+- ⚖️ **Fairness Verdict**: Know if rent is overpriced or fair
+
+---
+
+## 🚀 Try it Live (After Deployment)
+
+👉 [https://Swayamchopda-rent-fairness-analyzer.streamlit.app](https://Swayamchopda-rent-fairness-analyzer.streamlit.app)
+
+---
+
+## 🛠️ How to Run Locally
+
+```bash
+git clone https://github.com/Swayamchopda/rent-fairness-analyzer.git
+cd rent-fairness-analyzer
+pip install -r requirements.txt
+streamlit run app.py
