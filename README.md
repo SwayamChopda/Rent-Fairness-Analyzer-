@@ -14,9 +14,9 @@ A Streamlit-based web app that helps renters estimate whether a property's rent 
 
 ---
 
-## 🚀 Try it Live (After Deployment)
+## 🚀 Try it Live 
 
-👉 [https://Swayamchopda-rent-fairness-analyzer.streamlit.app](https://Swayamchopda-rent-fairness-analyzer.streamlit.app)
+👉 [https://Swayamchopda-rent-fairness-analyzer.streamlit.app](https://rent-fairness-analyzer-hkfiivcpkvefzpvccgmikw.streamlit.app/)
 
 ---
 
